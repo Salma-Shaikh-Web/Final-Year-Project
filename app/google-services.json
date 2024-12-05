@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637736138658",
+    "project_id": "hajri-card-backend",
+    "storage_bucket": "hajri-card-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637736138658:android:25b008c264d9c6561ee4fb",
+        "android_client_info": {
+          "package_name": "com.example.hajricard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5nycdDirgmMEd8K_iU016qClsCVcjAAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

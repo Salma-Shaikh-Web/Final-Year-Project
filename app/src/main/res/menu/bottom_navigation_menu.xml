@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Hajri Card"
+        android:icon="@drawable/check_icon"
+        android:id="@+id/attendence_menu">
+
+    </item>
+
+    <item android:title="Payment"
+        android:icon="@drawable/baseline_attach_money_24"
+        android:id="@+id/payment_menu">
+
+    </item>
+
+
+</menu>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hajri Card</string>
+    <string name="send_otp_in_30_sec">Send OTP in 30 sec</string>
+    <string name="otp">OTP</string>
+    <string name="mobile">Mobile</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="next">Next</string>
+    <string name="payment">Payment</string>
+    <string name="hajri">Hajri</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
